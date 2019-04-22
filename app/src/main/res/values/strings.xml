@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Scrolling Text</string>
+    <string name="article_title">Beatles Anthology</string>
+    <string name="article_subtitle">Behind That Locked Door</string>
+    <string name="article_text">In a vault deep inside in Abbey Road Studios in London — protected by an unmarked,
+                                triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings,
+                                starting from June 2, 1962 and ending with the very last tracks recorded for the Let It Be album.
+                                Quite a bit of these recordings have been copied and put out on bootlegs (the best of which are found
+                                on the Yellow Dog CD label). However, the best of the best were released by Apple Records in the form of
+                                the 3-volume Anthology series which offers outtakes and historical recordings that represent a milestone
+                                in classic rock. There are many interesting arrangements for songs that are much different than the released
+                                versions, and numerous “layered” out-takes demonstrating the various layers of overdubbing that was required
+                                for such experimentation when using the primitive 4-track equipment of that time.
+                                -----------------------------------------------------------------------------------
+                                In a vault deep inside in Abbey Road Studios in London — protected by an unmarked,
+                                triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings,
+                                starting from June 2, 1962 and ending with the very last tracks recorded for the Let It Be album.
+                                Quite a bit of these recordings have been copied and put out on bootlegs (the best of which are found
+                                on the Yellow Dog CD label). However, the best of the best were released by Apple Records in the form of
+                                the 3-volume Anthology series which offers outtakes and historical recordings that represent a milestone
+                                in classic rock. There are many interesting arrangements for songs that are much different than the released
+                                versions, and numerous “layered” out-takes demonstrating the various layers of overdubbing that was required
+                                for such experimentation when using the primitive 4-track equipment of that time.
+
+        \n\n
+        test
+        \n\n
+        <b>test</b>
+        \n\n
+        <b><i>test</i></b>
+    </string>
+</resources>
